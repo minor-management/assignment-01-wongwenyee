@@ -6,6 +6,7 @@ E.g. Question <br>
 1. What is the difference between private limited and public limited company? State one example for each type.
   
    Difference between private limited and public limited company is private limited company is not listed in stock exchange while public limited company is listed in      stock exchange. The example of private limited company is Ikea while the example of public limited company is Larsen & Tourbo.
+   
    Reference:
    https://keydifferences.com/difference-between-public-company-and-private-company.html
   https://thecompany.ninja/what-are-some-examples-of-public-limited-company/#:~:text=Some%20examples%20of%20public%20companies%20are%2C%20Reliance%20Industries%2C,states%20that%20it%20is%20a%20public%20company%2C%20and
@@ -13,6 +14,7 @@ E.g. Question <br>
 2. Why is Berjaya Sports Toto Berhad registered under Non-Shariah Compliant?
    
    Berjaya Sports Toto Berhad is not compliant with the Shariah principles, not just from its primary business model(gambling), but along with its investment              activities, which may also not be Shahriah compliant. According to shariah, gambling is known as qimar, and is severely prohibited.
+   
    Reference:
    https://hrmars.com/papers_submitted/3512/Islamic_Law_on_Gambling_and_Some_Modern_Business_Practices.pdf
    
@@ -21,8 +23,10 @@ E.g. Question <br>
    1. Alcohol 
    2. Gambling 
    3. Pornography
+   
    Reference:
-   https://av.sc.com/my/content/docs/Non-Syariah-Compliant-Business-Activities_ref.pdf#:~:text=Tobacco%20and%20dangerous%20drugs%20Entertainment%20related%20companies%20%E2%80%93,of%20screening%20films%20other%20than%20entertainment%20%20%20%20%20related%20movies.
+   https://av.sc.com/my/content/docs/Non-Syariah-Compliant-Business-Activities_ref.pdf#:~:text=Tobacco%20and%20dangerous%20drugs%20Entertainment%20related%20companies%20%E2%80%93,of%20screening%20films%20other%20than%20entertainment%20%20%20%20%20related%20movies.[pentamaster_ar2018.pdf](https://github.com/minor-management/assignment-01-wongwenyee/files/8459178/pentamaster_ar2018.pdf)
+
 4. Name the stock exchange of Malaysia.
    
    Bursa Malaysia(KLSE).
