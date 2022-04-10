@@ -8,7 +8,7 @@ E.g. Question <br>
    Difference between private limited and public limited company is private limited company is not listed in stock exchange while public limited company is listed in      stock exchange. The example of private limited company is Ikea while the example of public limited company is Larsen & Tourbo.
    Reference:
    https://keydifferences.com/difference-between-public-company-and-private-company.html
-   https://thecompany.ninja/what-are-some-examples-of-public-limited-                                            company/#:~:text=Some%20examples%20of%20public%20companies%20are%2C%20Reliance%20Industries%2C,states%20that%20it%20is%20a%20public%20company%2C%20and
+  https://thecompany.ninja/what-are-some-examples-of-public-limited-company/#:~:text=Some%20examples%20of%20public%20companies%20are%2C%20Reliance%20Industries%2C,states%20that%20it%20is%20a%20public%20company%2C%20and
     
 2. Why is Berjaya Sports Toto Berhad registered under Non-Shariah Compliant?
    
